@@ -5,9 +5,6 @@ reconstruction of noisy MNIST digits. It combines representation learning with
 a computational-neuroscience question: can learned context bias perception when
 visual input is ambiguous?
 
-> **Status:** Portfolio-ready research prototype with reusable training,
-> evaluation, and automated tests.
-
 ## How it works
 
 ```text
