@@ -106,8 +106,8 @@ Generated datasets, checkpoints, and outputs are excluded from Git.
 
 ## Results preview
 
-The notebooks default to a short CPU-friendly validation mode. It verifies the
-complete workflow but is not used to claim final scientific performance.
+Note: The notebooks default to a short CPU-friendly validation mode. It verifies the
+complete workflow but is NOT used to claim final scientific performance.
 
 ![Denoising reconstruction](assets/reconstruction_comparison.png)
 
